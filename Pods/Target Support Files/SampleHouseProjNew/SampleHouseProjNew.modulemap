@@ -1,0 +1,6 @@
+framework module SampleHouseProjNew {
+  umbrella header "SampleHouseProjNew-umbrella.h"
+
+  export *
+  module * { export * }
+}

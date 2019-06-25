@@ -1,0 +1,16 @@
+PODS:
+  - SampleHouseProjNew (0.1.0)
+
+DEPENDENCIES:
+  - SampleHouseProjNew (~> 0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SampleHouseProjNew
+
+SPEC CHECKSUMS:
+  SampleHouseProjNew: a2d17aa71a2d46887293d1cda442505686a4691b
+
+PODFILE CHECKSUM: a575a0240e1b985b90945e64d510e61889df05ee
+
+COCOAPODS: 1.6.1
